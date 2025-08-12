@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Assets/Enemies/Mictlantecuhtli.meta
+guid: e186d6e975689214fa09c31c3b79d88b
+========
+guid: c1d8352dab0352d478be2f8806eef3a1
+>>>>>>>> Refactor-Character-to-MVC-with-FSM:Assets/KCC_Player/PlayerStates.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

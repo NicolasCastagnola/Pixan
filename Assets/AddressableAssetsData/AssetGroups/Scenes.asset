@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Scenes
+  m_EditorClassIdentifier: 
+  m_GroupName: Scenes
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ce434704e1c36c543b434a6fc19138ae
+  m_SerializeEntries:
+  - m_GUID: 3e46e03a29e7e4b42b5a28edd0f49e94
+    m_Address: Assets/Scenes/GameplayScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ad80e37e30a894b40be75a46389e33c8
+    m_Address: Assets/Scenes/FinalScreen.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f9eb8ac11ab3ad458fe5b26bdc81b9b
+    m_Address: Assets/Scenes/Canvas_Editor.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c18ed7028b3291438e5755df7fa3948
+    m_Address: Assets/Scenes/Menu.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf4791592b47f254e97080a501bba1d4
+    m_Address: Assets/Scenes/Pruebas_Player_Griffero.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd647f7ee0057964194522bc97f03fda
+    m_Address: Assets/Scenes/TestingScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b1ee348d82d0c4468599079f2b03385
+    m_Address: Assets/Scenes/Level_1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 502a9efc00492424192ffbceb7ba6c57
+    m_Address: Assets/Scenes/Level_2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03b03beb0d48aea4ab5234a196acac44
+    m_Address: Assets/Scenes/Level_3.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 661c8de0e8020bb40986743100225de1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 470472a69e2477045ab73261a341787a, type: 2}
+    - {fileID: 11400000, guid: 721d3e64f4b71d741a3f642f12b1c840, type: 2}

@@ -1,0 +1,3 @@
+[submodule "Packages/NC-Developer-Toolkit"]
+	path = Packages/NC-Developer-Toolkit
+	url = https://github.com/NicolasCastagnola/NC-Developer-Toolkit.git

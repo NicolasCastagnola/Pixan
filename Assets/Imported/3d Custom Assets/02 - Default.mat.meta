@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Imported/3d Custom Assets/02 - Default.mat.meta
+guid: d4df7f325af17934b8c56c8ba2296ed1
+NativeFormatImporter:
+========
+guid: c1d8352dab0352d478be2f8806eef3a1
+folderAsset: yes
+DefaultImporter:
+>>>>>>>> origin/Refactor-Character-to-MVC-with-FSM:Assets/KCC_Player/PlayerStates.meta
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

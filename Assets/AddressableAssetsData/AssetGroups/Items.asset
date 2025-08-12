@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Items
+  m_EditorClassIdentifier: 
+  m_GroupName: Items
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 25b7343a39993d04ba263f39cccfdd4d
+  m_SerializeEntries:
+  - m_GUID: c1b68bd7105c9154db4e667039231845
+    m_Address: Assets/Prefabs/Keys/MudGolemKey.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63d90e20209b80d43a9f459a5c62ef9d
+    m_Address: Assets/Prefabs/Keys/Sacrificial Heart.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 369f6b3ac9c4c65458c174cdb52aa8c5
+    m_Address: Assets/Prefabs/Keys/Sacrificial Knife.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9acc505117587b4ba9712080737d357
+    m_Address: Assets/Prefabs/Keys/Soul of Sacrifice.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21b433ddcde23e740a8d231e27ece074
+    m_Address: Assets/Prefabs/Keys/Soul Of Highness.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1b542a2a4510b34db9356028d04c586
+    m_Address: Assets/Prefabs/Keys/Soul Of Madness.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 661c8de0e8020bb40986743100225de1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 28227d2442bdad54b855f74e8645fb4f, type: 2}
+    - {fileID: 11400000, guid: ede366b4f5d262946a2fc36feaeebcf7, type: 2}

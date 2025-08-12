@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 4e971f575fce4bf4e95468a5c014acef
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _TextureSample0: {fileID: 2800000, guid: 9d9493d50518d9b46b0d913cff470685, type: 3}
+  - _MudEnemy_lambert1_Normal1001: {fileID: 2800000, guid: 5aac765e5b1d210488674899fe72b9c8, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

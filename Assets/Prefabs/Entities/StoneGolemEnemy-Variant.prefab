@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4878007242118671932
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 752276309229459813, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5e431266647f91b4497568fe06107c17, type: 2}
+    - target: {fileID: 1256613291539560624, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_Name
+      value: Stone_Rock
+      objectReference: {fileID: 0}
+    - target: {fileID: 3824348208554732714, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3824348208554732714, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 00d1d78ea396cdc41a35875bd7f2a461, type: 2}
+    - target: {fileID: 3824348208554732714, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 22662ce4dbcb97145b462f7f604f21e1, type: 2}
+    - target: {fileID: 4022108877403192961, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: StompParticles
+      value: 
+      objectReference: {fileID: 3169198098703938902, guid: b0820d7b35e21ff4cac459b736cb338c, type: 3}
+    - target: {fileID: 4273996643026299685, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_UpdateWhenOffscreen
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4273996643026299685, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4273996643026299685, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 46703da51ba9a2e4f824056050a6e504, type: 2}
+    - target: {fileID: 4273996643026299685, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: dab5174d594a58643a0b54645690c05c, type: 2}
+    - target: {fileID: 4760538797785248308, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: <Max>k__BackingField
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 6657535009976777975, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_Name
+      value: StoneGolemEnemy-Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6751481771148648803, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_Layer
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 7264276746200771589, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: bulletPrefab
+      value: 
+      objectReference: {fileID: 840459892878129943, guid: b75d63864ccb6c742b5abcfd27406e63, type: 3}
+    - target: {fileID: 7264276746200771589, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: SummonParticles
+      value: 
+      objectReference: {fileID: 7507143317131005699, guid: b62e66009f38b0f4a8266deb2f30048f, type: 3}
+    - target: {fileID: 7264276746200771589, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: deathParticlePrefab
+      value: 
+      objectReference: {fileID: 7507143317131005699, guid: ea04f9de8a4fa804c92c8661481d7eb7, type: 3}
+    - target: {fileID: 7264276746200771589, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: SummonedMinionPrefab
+      value: 
+      objectReference: {fileID: 6509482705921010030, guid: 8d177ae12be16cd4c919b5b86a1f630d, type: 3}
+    - target: {fileID: 7264276746200771589, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: <BossName>k__BackingField
+      value: Stone Golem
+      objectReference: {fileID: 0}
+    - target: {fileID: 7264276746200771589, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: <StompDamage>k__BackingField
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 7264276746200771589, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: <ThrowDamage>k__BackingField
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7264276746200771589, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: <hurtParticle>k__BackingField
+      value: AttackStone
+      objectReference: {fileID: 0}
+    - target: {fileID: 7538926069418891401, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7538926069418891401, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 709.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 7538926069418891401, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 7538926069418891401, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -140.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 7538926069418891401, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.31919134
+      objectReference: {fileID: 0}
+    - target: {fileID: 7538926069418891401, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7538926069418891401, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.9476903
+      objectReference: {fileID: 0}
+    - target: {fileID: 7538926069418891401, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7538926069418891401, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7538926069418891401, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 142.772
+      objectReference: {fileID: 0}
+    - target: {fileID: 7538926069418891401, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de493d3a7bff2cb40a4126da78f31f63, type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 719b9be4d14107449bdc1d04ca572652, type: 3}
+  m_Name: Soul Of Madness
+  m_EditorClassIdentifier: 
+  itemType: 1
+  id: SoulOfMadness
+  itemName: SoulOfMadness
+  Description: Soul from the god of Madness >:(
+  InventoryIndex: 3
+  iconInsideInventory: {fileID: 21300000, guid: 2410ab670e8b74a4a8dd03cb7d130322, type: 3}
+  maxStacks: 1
+  minStacks: 1
+  objectPrefab: {fileID: 2383874535885656950, guid: c1b542a2a4510b34db9356028d04c586, type: 3}

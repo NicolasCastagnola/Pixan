@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 3ec5c760490bc134c9a66495028af10f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MudEnemy_lambert1_BaseColor1001: {fileID: 2800000, guid: 447accb1872181c4fbb47636fe826658, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

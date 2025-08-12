@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6ce5ff27f6c4b0c42b53a5dfdf31c0d3
+  m_SerializeEntries:
+  - m_GUID: bdcf9374782d4dd40acf22c055d4e6f0
+    m_Address: Assets/Prefabs/MudBullet.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d2c3b62bfcb99c94d8cdb82a9a77b987
+    m_Address: Assets/Prefabs/DistanceBullet.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 60f8b91ab90bc254fbc392558fd80ebb
+    m_Address: Assets/Prefabs/MigueRock.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e5e89cedcf034434c9c73e4114a1a615
+    m_Address: Assets/Prefabs/MiguelAreaAttack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9ef838c606cce4249a9d957a92756256
+    m_Address: Assets/Prefabs/MudSummon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 661c8de0e8020bb40986743100225de1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6a565375f997c2b4ab8e0dceee842dc2, type: 2}
+    - {fileID: 11400000, guid: daa2fba882244564d9031fefb8ff83e5, type: 2}

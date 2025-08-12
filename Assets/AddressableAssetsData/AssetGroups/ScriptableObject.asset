@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ScriptableObject
+  m_EditorClassIdentifier: 
+  m_GroupName: ScriptableObject
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d89ef468f52550d49b3a38803fa9a7b7
+  m_SerializeEntries:
+  - m_GUID: 45b1353d680a41440a544c8a82b371e8
+    m_Address: Assets/ScriptableObjects/Items/MudGolemKey.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 35d69bf61ed1da44cacde2d74c163bfd
+    m_Address: Assets/ScriptableObjects/Items/SacrificialHeart.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4bba9fd955bc4c844b61ea1a1db1ce5c
+    m_Address: Assets/ScriptableObjects/Items/SacrificialKnife.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e58f7cb1dbd7984aabff211b9ed2881
+    m_Address: Assets/ScriptableObjects/Items/Soul Of Madness.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea03d0fb7ff3fe746acbac78d949491f
+    m_Address: Assets/ScriptableObjects/Items/Soul of Highness.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a7543bedbdce9c843a598900da2a8106
+    m_Address: Assets/ScriptableObjects/Items/Soul of Sacrifice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 661c8de0e8020bb40986743100225de1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: afef4d6139adb354d9245286d3675439, type: 2}
+    - {fileID: 11400000, guid: 425581c80578a264ebcf682626dcc4fe, type: 2}

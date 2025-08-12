@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Audio
+  m_EditorClassIdentifier: 
+  m_GroupName: Audio
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d86340a0c2f789c42a2d22420dd890c3
+  m_SerializeEntries:
+  - m_GUID: 8b416c3355d3ee04f82374d2868ce71a
+    m_Address: Assets/ScriptableObjects/Audio/MainMenuTheme.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8aadf183e4a4b742a0b4a577fa7dc8c
+    m_Address: Assets/ScriptableObjects/Audio/OpenDoor.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 55cf65f159ca8654ebc15b10063d0218
+    m_Address: Assets/ScriptableObjects/Audio/VaseDestroyed.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f36a1e1a6e3b0b49b9ba70b8ff9a0d7
+    m_Address: Assets/ScriptableObjects/Audio/Mitch/MB_Death.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 486d775e4fcaad74b9ebd07ce723802b
+    m_Address: Assets/ScriptableObjects/Audio/Mitch/MB_Introduction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d12f9285333a3349b710bcc731f0cff
+    m_Address: Assets/ScriptableObjects/Audio/Mitch/MB_Stomp.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a1a8377c755d7e445a7e143cbd4d94b3
+    m_Address: Assets/ScriptableObjects/Audio/Mitch/Migue_Footstep.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f485dabfb73805458604654c9d8db62
+    m_Address: Assets/ScriptableObjects/Audio/Mitch/Migue_Hurt.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8fa80d09ef2ad7c41b3c846d153e8db9
+    m_Address: Assets/ScriptableObjects/Audio/Mitch/Migue_Punch.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 321f93c1ddd81654796e932134978b92
+    m_Address: Assets/ScriptableObjects/Audio/Mitch/Migue_Stun.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dc06c1f84fbd1894a849d62062116be0
+    m_Address: Assets/ScriptableObjects/Audio/Mitch/Migue_Summon.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6d58c20fe67f7724588b2ac02c02f470
+    m_Address: Assets/ScriptableObjects/Audio/Golem/Golem_Death.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7b85db03475e59f4ba0219b12467a89a
+    m_Address: Assets/ScriptableObjects/Audio/Golem/Golem_Throw.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 70bd2a25a516647499992b91cdf2de06
+    m_Address: Assets/ScriptableObjects/Audio/Golem/Golem_Stomp.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b88e5e86a58bd534f969387f9ce7bca1
+    m_Address: Assets/ScriptableObjects/Audio/Golem/Golem_Hurt.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ac13b3193412a04bad7d43d2999a843
+    m_Address: Assets/ScriptableObjects/Audio/Golem/Golem_Footstep.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01e8d1f20f852c5429b84d8920ba8d5f
+    m_Address: Assets/ScriptableObjects/Audio/Golem/Golem_Stun.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 661c8de0e8020bb40986743100225de1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3c94b7d00c23d8749b50f8e69198a95f, type: 2}
+    - {fileID: 11400000, guid: 990cac8bb6f8c73459ce2670d7270457, type: 2}
